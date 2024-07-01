@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm theTrxT</h1>
-<h3 align="center">A passionate developer from Czechia</h3>
-
+<h3 align="center">A begginer developer from Czechia
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thetrxt&label=Profile%20views&color=0e75b6&style=flat" alt="thetrxt" /> </p>
 
 - 📫 How to reach me **trxtdev@seznam.cz**
